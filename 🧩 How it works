@@ -1,0 +1,6 @@
+- Uses Telethon to connect securely with your Telegram account.
+- Checks each dialog’s name & description
+- Matches them against your spam keywords
+- Leaves spam chats automatically.
+- Keeps a log for audit.
+
